@@ -23,3 +23,10 @@ Neuroinflammation and related protein aggregation pathways have been implicated 
 #### Files
 [ADTstudy_DonorInformation.csv](https://github.com/Sebastian-Warma/Big-Data-Analysis-Final-Project/files/8481882/DonorInformation.csv)  
 [ADTstudy_ProteinAndPathologyQuantifications.csv](https://github.com/Sebastian-Warma/Big-Data-Analysis-Final-Project/files/8481884/ProteinAndPathologyQuantifications.csv)
+
+#### References
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5909703/
+https://www.nature.com/articles/s41582-020-00435-y
+https://www.frontiersin.org/articles/10.3389/fncel.2014.00112/full
+https://www.frontiersin.org/articles/10.3389/fnhum.2021.700627/full
+https://alzres.biomedcentral.com/articles/10.1186/s13195-018-0450-3 
