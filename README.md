@@ -1,7 +1,6 @@
 
 # Big-Data-Analysis-Final-Project
-Final Project for Big Data Analysis 2022
-
+Final Project for Big Data Analysis 2022  
 *Research Project by Sebastian Warma and Arastu Sharma*
 ## Age-Related Correlates of Blood/CSF Markers in Alzheimer's Disease and Dimentia
 Through the attached datasets we hope to evaluate the following research question: 
