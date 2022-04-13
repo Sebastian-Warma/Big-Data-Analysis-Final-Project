@@ -2,9 +2,11 @@
 # Big-Data-Analysis-Final-Project
 Final Project for Big Data Analysis 2022  
 *Research Project by Sebastian Warma and Arastu Sharma*
-## Age-Related Correlates of Blood/CSF Markers in Alzheimer's Disease and Dimentia
+## Modelling Dementia & Alzheimer's Inidence based on Age-Related Correlates in the  Blood and CSF
 Through the attached datasets we hope to evaluate the following research question: 
-**Can we develop a model to predict incidence of dementia or alzheimers given a panel of inflammatory biomarkers and alzheimers related protein pathlogy measurement.**
+**Can we develop a model to predict the incidence of dementia or Alzheimers given a panel of neuroinflammatory biomarkers and Alzheimer’s related protein pathology measurement?**
+
+
 
 ### Datasets
 | Dataset | Available | Size | Format | Participants | Description |
