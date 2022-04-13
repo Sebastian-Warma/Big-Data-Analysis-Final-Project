@@ -6,7 +6,6 @@ Through the attached datasets we hope to evaluate the following research questio
 **Can we develop a model to predict incidence of dementia or alzheimers given a panel of inflammatory biomarkers and alzheimers related protein pathlogy measurement.**
 
 ### Datasets
-Table Creation
 | Dataset | Available | Size | Format | Participants | Description |
 | - | -- | ------------ | ----- | ------ | -------------- |
 | Aging Dementia & TBI Study | Y | 150kB | csv | 108 | 29 blood and CSF markers plus demographic and clinical diagnosis data |
